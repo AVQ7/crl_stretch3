@@ -63,7 +63,7 @@ Now, home your robot, if you haven't already.
 
 ```
 stretch_robot_home.py
-```
+
 
 ### YOLOv8 on the Robot
 
