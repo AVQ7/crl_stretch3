@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visual Servoing with the Stretch 3 Dex Wrist & Gripper
 
 
@@ -143,3 +144,6 @@ python3 visual_servoing_demo.py --exposure ['low', 'medium', 'auto'] or an integ
 ```
 
 The `--exposure` flag also works on the `send_d405_images.py` script.
+=======
+# crl_stretch3
+>>>>>>> e13e6295bb5e4b536d844ae8d2e480b6072733ca
